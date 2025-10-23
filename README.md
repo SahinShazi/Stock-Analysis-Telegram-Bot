@@ -16,14 +16,6 @@ This bot is designed for retail investors, students, and financial enthusiasts w
 
 ---
 
-## 📸 Demo
-
-*(Add a screenshot of your bot in action below)*
-
-![Bot Demo Screenshot](https://via.placeholder.com/600x400.png?text=Your+Bot+Screenshot+Here)
-
----
-
 ## ⚙️ How It Works
 
 The bot follows a simple yet powerful workflow:
@@ -113,19 +105,6 @@ The bot will start polling for messages. Keep the terminal session active to kee
 - **Financial Data:** Twelve Data API
 - **Stock Charts:** Finviz
 - **AI Model Provider:** OpenRouter.ai
-
----
-
-## 📂 Project Structure
-
-```
-stock-analyst-ai/
-│
-├── bot.py              # Main bot application
-├── requirements.txt    # Python dependencies
-├── README.md          # Project documentation
-└── LICENSE            # License file
-```
 
 ---
 
