@@ -4,6 +4,8 @@ Stock Analyst AI is a powerful Telegram bot that provides professional-grade, AI
 
 This bot is designed for retail investors, students, and financial enthusiasts who want quick, data-driven analysis without the complexity of traditional financial tools.
 
+Demo: https://t.me/assistant232_bot
+
 ---
 
 ## ✨ Features
